@@ -2,6 +2,6 @@
 
 **Y**et **A**nother **Tensor** Library written in C++.
 
-BLAS + template
+Eigen + template
 
 
